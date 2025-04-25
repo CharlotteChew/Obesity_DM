@@ -1,5 +1,5 @@
 # Author:zwy
-# Desc:WGCNA
+# Desc:Univariate Logistic Regression 
 
 library(dplyr)
 library(tibble)
